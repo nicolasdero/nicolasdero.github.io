@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Jekyll generated files
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
