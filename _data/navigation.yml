@@ -1,17 +1,18 @@
 main:
 
-  - title: "Teaching"
-    url: teaching/
+  - title: "Mountain & Stuff"
+    url: mountain/
     right: true 
-
-  - title: "Services"
-    url: services/
-
-  - title: "Group"
-    url: research-group/
+  
+  - title: "Softwares"
+    url: softwares/
 
   - title: "Publications"
     url: publications/
 
+  - title: "CV"
+    url: CV/
+
   - title: "Home"
     url: 
+
