@@ -1,0 +1,21 @@
+main: 
+
+  - title: Operator Spreading Toolbox 
+    description: > 
+      A Python implementation of the operator-growth dynamics in fully-connected quantum spin models, with focus on the LMG model.
+    image: /assets/img/probability_animation.gif
+    github: https://github.com/nicolasdero/OperatorSpreadingLMG
+
+  - title: KrylovQuantumClassical
+    description: > 
+      A Python and Mathematica implementation of the classical and quantum Lanczos algorithm
+    image: /assets/img/Lanczos_animation.gif
+    github: https://github.com/nicolasdero/KrylovQuantumClassical
+    zenodo: https://zenodo.org/records/21337092
+
+  - title: Pydlosky
+    description: > 
+      A Python implementation of the Pedlosky quasi-geostrophic model.
+    image: /assets/img/trajectory_animation.gif
+    github: https://github.com/Climdyn/Pydlosky
+    zenodo: https://zenodo.org/records/19452069
