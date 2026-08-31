@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{ site.affiliation }}</title>
+    <title>Personal website | {{ site.title }}</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -127,6 +127,9 @@
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
+        {% endif %}
+        {% if site.private_email %}
+        <email>{{ site.private_email }}</email>
         {% endif %}
         
         <br>

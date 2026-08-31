@@ -51,7 +51,7 @@
     left: 10px;
     right: 10px;
     height: 2px;
-    background: #FF5F05;
+    background: #FFFFFF;
     transform: scaleX(0);
     transition: transform 0.2s ease;
 }

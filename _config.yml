@@ -3,6 +3,7 @@ title: Nicolas De Ro
 position: PhD student
 affiliation: University of Geneva
 email: nicolas.dero (at) unige.ch
+private_email: nicolas.deromiralles (at) gmail.com
 
 # Search Engine Optimization (SEO)
 keywords: nicolas de ro, nicolas dero, nicolasdero, de ro nicolas, dero nicolas, nicolasdero.com, nicolasdero.ch, nicolasdero.github.io, nicolasdero.me, nicolasdero.net, nicolasdero.org, github.com/nicolasdero
@@ -21,10 +22,9 @@ link_type: icon #text/icon
 github_link: https://github.com/nicolasdero
 orcid: https://orcid.org/0009-0000-7690-1444
 linkedin: https://ch.linkedin.com/in/nicolas-de-ro-b8b30635a
-#twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: ./assets/img/avatar.jpeg
+avatar: /assets/img/avatar.jpeg
 
 # The following files will be removed from the generated website.
 exclude:

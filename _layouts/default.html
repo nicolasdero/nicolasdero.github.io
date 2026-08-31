@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ page.title }} | {{ site.title }} | {{ site.affiliation }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -61,7 +61,7 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="120" src="../{{ site.affiliation_logo }}"></a>
+      <a href="{{ site.affiliation_link }}"><img width="120" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
       {% include navigation.md %}
@@ -107,13 +107,16 @@
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
+        {% endif %}
+        {% if site.private_email %}
+        <email>{{ site.private_email }}</email>
         {% endif %}
         
         <br>
