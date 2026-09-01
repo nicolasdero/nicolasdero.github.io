@@ -110,8 +110,7 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        <position style="font-size:1.10rem;">{{ site.affiliation }}</position>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
@@ -119,17 +118,6 @@
         {% if site.private_email %}
         <email>{{ site.private_email }}</email>
         {% endif %}
-        
-        <br>
-        <br>
-
-        {% if site.link_type == 'text' %}
-        [<a href="{{ site.google_scholar }}">Google Scholar</a>]
-        <br>
-        [<a href="{{ site.cv_link }}">Curriculum Vitae</a>]
-        <br>
-        {% endif %}
-
         {% if site.link_type == 'icon' %}
         <div class="social-icons">
         {% if site.google_scholar %}

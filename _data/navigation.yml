@@ -1,7 +1,7 @@
 main:
 
   - title: "Mountain & Stuff"
-    url: mountain/
+    url: mountains/
     right: true 
   
   - title: "Softwares"

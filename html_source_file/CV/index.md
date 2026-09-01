@@ -4,6 +4,10 @@ title: Curriculum vitae
 permalink: /CV/
 ---
 
+<a href="/assets/documents/nicolas_dero_CV.pdf" class="pdf-link">
+    <img src="/assets/img/PDF.svg" alt="PDF version of CV" class="pdf-icon">
+</a>
+
 ## Personal Data
 
 <div class="cv-entry"> 
@@ -35,16 +39,25 @@ Belgian and Spanish
 
 <div class="cv-entry"> 
 <div class="cv-date"> 
-Work address 
+Languages 
 </div> 
 <div class="cv-description"> 
-Boulevard d’Yvoy 16, 1205 Genève, Switzerland 
+French (native), English (full professional) and Spanish (limited)
 </div> 
 </div>
 
 <div class="cv-entry"> 
 <div class="cv-date"> 
-Professional e-mail 
+Work address 
+</div> 
+<div class="cv-description"> 
+Boulevard d’Yvoy 16, 1205 Genève, Switzerland. Office location: <a href="https://www.openstreetmap.org/way/1375359513">SC1 215</a>
+</div> 
+</div>
+
+<div class="cv-entry"> 
+<div class="cv-date"> 
+Professional email 
 </div> 
 <div class="cv-description"> 
 <a href="mailto:nicolas.dero@unige.ch">nicolas.dero (at) unige.ch</a>
@@ -58,7 +71,7 @@ Professional e-mail
 November 2022 – Present
 </div>
 <div class="cv-description">
-<strong>PhD student in Physics</strong>, University of Geneva<br>
+<strong>PhD student</strong>, University of Geneva<br>
 Department of Theoretical Physics, group of Prof. <a href="https://fiteoweb.unige.ch/~sonner/">Julian Sonner</a>.
 </div>
 </div>
@@ -68,8 +81,8 @@ Department of Theoretical Physics, group of Prof. <a href="https://fiteoweb.unig
 September 2020 – August 2022
 </div>
 <div class="cv-description">
-<strong>Master's degree in Physics</strong>, Université Libre de Bruxelles<br>
-Master's degree obtained with 90%, <i>Grande Distinction</i>.
+<strong>Master's degree</strong>, Université Libre de Bruxelles<br>
+Master's degree in Physics, obtained with 90%, <i>La Plus Grande Distinction</i> (<i>The Highest Honors</i>).
 </div>
 </div>
 
@@ -78,8 +91,18 @@ Master's degree obtained with 90%, <i>Grande Distinction</i>.
 September 2017 – June 2020
 </div>
 <div class="cv-description">
-<strong>Bachelor's degree in Physics</strong>, Université Libre de Bruxelles<br>
-Bachelor's degree obtained with 72%, <i> Distinction</i>.
+<strong>Bachelor's degree</strong>, Université Libre de Bruxelles<br>
+Bachelor's degree in Physics, obtained with 72%, <i>Distinction</i> (<i>Honors</i>).
+</div>
+</div>
+
+<div class="cv-entry">
+<div class="cv-date">
+September 2011 – June 2017
+</div>
+<div class="cv-description">
+<strong>Secondary education</strong>, European School of Brussels IV<br>
+European baccalaureate, obtained with 88%.
 </div>
 </div>
 
@@ -93,7 +116,7 @@ October 2021 – August 2022
 <strong>Master's thesis</strong>, Université Libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164UK.php">Center for Nonlinear Phenomena and Complex Systems</a>.<br>
 <u>Title</u>: <i>Local equilibrium approach to quantum transport in normal fluids</i>.<br>
-Supervision of Prof. <a href="https://gaspard.pierre.web.ulb.be/">Pierre Gaspard</a>.
+Supervised by Prof. <a href="https://gaspard.pierre.web.ulb.be/">Pierre Gaspard</a>.
 </div>
 </div>
 
@@ -105,7 +128,7 @@ July – August 2021
 <strong>Internship</strong>, Université Libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164UK.php">Center for Nonlinear Phenomena and Complex Systems</a>.<br>
 <u>Title</u>: <i>Superfluid-Mott insulator transition in the Bose-Hubbard model</i>.<br>
-Supervision of Prof. <a href="https://www.nathan-goldman-physics.com/">Nathan Goldman</a>.
+Supervised by Prof. <a href="https://www.nathan-goldman-physics.com/">Nathan Goldman</a>.
 </div>
 </div>
 
@@ -117,7 +140,7 @@ November 2020 – April 2021
 <strong>Internship</strong>, Université Libre de Bruxelles<br>
 <a href="https://dynamics.ulb.be/">Laboratory of Polymer and Soft Matter Dynamics</a>.<br>
 <u>Title</u>: <i>Asymmetric lipid transfer between vesicles measured by QCM-D</i>.<br>
-Supervision of Prof. <a href="https://scholar.google.com/citations?user=624TAjIAAAAJ&hl=es">Patricia Maria Losada Pérez</a>.
+Supervised by Prof. <a href="https://scholar.google.com/citations?user=624TAjIAAAAJ&hl=es">Patricia Maria Losada Pérez</a>.
 </div>
 </div>
 
@@ -129,7 +152,7 @@ May – June 2020
 <strong>Bachelor's thesis</strong>, Université Libre de Bruxelles<br>
 <a href="https://squares.ulb.be/">Spectroscopy, Quantum Chemistry and Atmospheric Remote Sensing service</a>.<br>
 <u>Title</u>: <i>Fonction de localisation électronique</i>.<br>
-Supervision of Prof. <a href="https://scholar.google.com/citations?hl=en&user=3c2AYK8AAAAJ&view_op=list_works&sortby=pubdate">Emilie Cauët</a>.
+Supervised by Prof. <a href="https://scholar.google.com/citations?hl=en&user=3c2AYK8AAAAJ&view_op=list_works&sortby=pubdate">Emilie Cauët</a>.
 </div>
 </div>
 
@@ -151,7 +174,7 @@ September 2022
 </div>
 <div class="cv-description">
 <strong>Second AScBr Prize</strong>, awarded by the <a href="https://ulbascbr.wixsite.com/ascbr-ulb">Association des Diplômés de la Faculté des Sciences de l'Université Libre de Bruxelles</a>.<br>
-In recognition of the high scientific level of the Master's thesis and the ability to vulgarise the results to a non-professional audience (250 EUR).
+In recognition of the high scientific level of the Master's thesis and the ability to vulgarize the results to a non-professional audience (250 EUR).
 </div>
 </div>
 
@@ -173,7 +196,7 @@ One-year scholarship awarded to graduates from the Université Libre de Bruxelle
 </div>
 <div class="cv-description">
 <strong><a href="https://warwick.ac.uk/fac/sci/physics/research/theory/events/mbqchaos2026/">Quantum Chaotic Many Body Dynamics 2026</a></strong>, Coventry, UK.<br>
-The meeting aimed to bring together participants from the condensed matter, high energy physics, and quantum information communities, and to foster discussion on quantum chaotic many body dynamics and related themes.<br>
+The meeting aimed to bring together participants from the condensed matter, high energy physics, and quantum information communities, and to foster discussion on quantum chaotic many-body dynamics and related themes.<br>
 <i>Personal contribution: Poster presentation.</i>
 </div>
 </div>
@@ -194,9 +217,9 @@ This conference brought together mathematicians and physicists to assess the leg
 24–28 March 2025 
 </div> 
 <div class="cv-description"> 
-<strong><a href="https://pcts.princeton.edu/events/2025/facets-entanglement">Workshop on Facets of Entanglement and Visit of Princeton</a></strong>, Princeton, USA.<br>
+<strong>Workshop on <a href="https://pcts.princeton.edu/events/2025/facets-entanglement">Facets of Entanglement</a> and visit of Princeton University</strong>, Princeton, USA.<br>
 The workshop aimed to bring together experts from quantum information, mathematics, and physics working on different facets of entanglement in many-body systems.<br> 
-<i>Personal contribution: Meeting with local professors.</i> 
+<i>Personal contribution: Meetings with local professors.</i> 
 </div> 
 </div> 
 
@@ -205,8 +228,8 @@ The workshop aimed to bring together experts from quantum information, mathemati
 9–11 December 2024 
 </div> 
 <div class="cv-description"> 
-<strong><a href="http://www.solvayinstitutes.be/event/workshop/Wk_P_Gaspard_2024/Wk_P_Gaspard_2024.html">Workshop in Honour of Prof. Pierre Gaspard</a></strong>, Brussels, Belgium.<br> 
-The workshop was organized in honour of Pierre Gaspard, covering various aspects of statistical mechanics, thermodynamics, and nonlinear physics.<br> <i>Personal contribution: None.</i> 
+<strong>Workshop in Honor of Prof. Pierre Gaspard</strong>, Brussels, Belgium.<br> 
+The workshop was organized in honor of Pierre Gaspard, covering various aspects of statistical mechanics, thermodynamics, and nonlinear physics.<br> <i>Personal contribution: None.</i> 
 </div> 
 </div> 
 
@@ -223,8 +246,8 @@ Informal one-day workshop designed to provide participants with an overview of r
 <div class="cv-entry"> 
 <div class="cv-date"> 26 November–2 December 2023 
 </div> 
-<div class="cv-description"> <strong><a href="https://sites.google.com/view/cqu2023/">Workshop on Chaos and Information Dynamics in Quantum Many-Body Systems</a></strong>, Erice, Italy.<br> 
-Focus on a comprehensive account of quantum chaotic dynamics driven by many-body interactions, including scrambling, out-of-time-order correlations, and thermalisation dynamics.<br> <i>Personal contribution: None.</i> 
+<div class="cv-description"> <strong>Workshop on Chaos and Information Dynamics in Quantum Many-Body Systems</strong>, Erice, Italy.<br> 
+Focus on a comprehensive account of quantum chaotic dynamics driven by many-body interactions: scrambling, out-of-time-order correlations, thermalization dynamics.<br> <i>Personal contribution: None.</i> 
 </div> 
 </div> 
 
@@ -232,7 +255,7 @@ Focus on a comprehensive account of quantum chaotic dynamics driven by many-body
 <div class="cv-date"> 21 August–1 September 2023 
 </div> 
 <div class="cv-description"> <strong><a href="https://indico.ictp.it/event/10201/overview">School on Quantum Many-Body Phenomena out of Equilibrium: From Chaos to Criticality</a></strong>, Trieste, Italy.<br> 
-Overview of frontier research topics in the context of non-equilibrium quantum many-body dynamics.<br> 
+Overview of frontier research topics in the context of nonequilibrium quantum many-body dynamics.<br> 
 <i>Personal contribution: Poster presentation.</i> 
 </div> 
 </div> 
@@ -253,7 +276,7 @@ Hot topics in driven, two-dimensional, and topological matter.<br>
 <i>Personal contribution: None.</i> 
 </div> 
 </div> 
-<div class="cv-entry"> <div class="cv-date"> 24 May 2022 </div> <div class="cv-description"> <strong>Invited Speaker</strong>, University of Geneva, Geneva, Switzerland.<br> Master's thesis presentation: <i>Local equilibrium approach to quantum transport in normal fluids</i>. 
+<div class="cv-entry"> <div class="cv-date"> 24 May 2022 </div> <div class="cv-description"> <strong>Invited speaker at the University of Geneva</strong>, Geneva, Switzerland.<br> Master's thesis presentation. 
 </div> 
 </div>
 
@@ -271,10 +294,10 @@ Main course given by Dr. <a href="https://giamarchi.unige.ch/christophe-berthod/
 
 <div class="cv-entry">
 <div class="cv-date">
-Autumn semesters 2023, 2024, 2025, and 2026
+Autumn semesters 2023-2026
 </div>
 <div class="cv-description">
-<strong>Mécanique classique pour mathématicien·nes</strong> (<strong> Classical mechanics for mathematicians</strong>), [BA3 course]<br>
+<strong>Mécanique classique pour mathématicien·nes</strong> (<strong>Classical mechanics for mathematicians</strong>), [BA3 course]<br>
 Main course given by Profs. <a href="https://inspirehep.net/authors/1018703">Anton Alekseev</a> and <a href="https://fiteoweb.unige.ch/~sonner/">Julian Sonner</a>.
 </div>
 </div>
@@ -297,20 +320,20 @@ Main course given by Prof. <a href="https://inspirehep.net/authors/1009762">Stef
 Autumn semester 2024
 </div>
 <div class="cv-description">
-<strong><a href="https://www.science2market.ch">Innosuisse Start-up Training Business Concept</a></strong><br>
-14-week training program and development of a business project that has been positively evaluated by the jury.
+<strong><a href="https://www.innosuisse.admin.ch/en/">Innosuisse Start-up Training Business Concept</a></strong><br>
+14-week training program and development of a business project that was positively evaluated by the jury.
 </div>
 </div>
 
 <div class="cv-entry">
 <div class="cv-date">
-June 2023, 2024 and 2026
+June 2023-2026
 </div>
 
 <div class="cv-description">
 
 <strong><a href="https://www.ge.ch/document/filieres-formations-college-geneve-cdg">Collège de Genève</a></strong><br>
-External examiner of the oral Swiss Matura exam in mathematics (normal and advanced levels). Total of 14,5 days of examination.
+External examiner of the oral Swiss Matura exam in mathematics (normal and advanced levels). Total of 14.5 days of examination.
 
 </div>
 
@@ -327,7 +350,7 @@ September–October 2022
 <div class="cv-description">
 
 <strong><a href="https://www.meteo.be/en/belgium">RMI</a></strong><br>
-Based on a research work started during my master's degree, Prof. <a href="https://scholar.google.be/citations?user=c5SdYKEAAAAJ&hl=fr">Stéphane Vannitsem</a> hired me for pursuing my research for two months.
+Based on research initiated during my master's degree, Prof. <a href="https://scholar.google.be/citations?user=c5SdYKEAAAAJ&hl=fr">Stéphane Vannitsem</a> hired me to pursue this research for two months.
 
 </div>
 

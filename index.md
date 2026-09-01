@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
-I am a PhD student in the <a href="https://www.unige.ch/sciences/physique/theorique/">Departement of Theoretical Physics</a> working in the group of Prof. [Julian Sonner](https://fiteoweb.unige.ch/~sonner/) at the [University of Geneva](https://www.unige.ch/en/).
+<div style="padding-top: 40px;"></div>
+
+I am a PhD student in the <a href="https://www.unige.ch/sciences/physique/theorique/">Departement of Theoretical Physics</a> working in the group of Prof. [Julian Sonner](https://fiteoweb.unige.ch/~sonner/) at the [University of Geneva](https://www.unige.ch/en/).<br>
 
 My research lies at the intersection of **quantum** and **statistical mechanics**, with a particular focus on **condensed matter** and **many-body physics**. I am primarily interested in the **nonequilibrium dynamics** of many-body systems, **operator dynamics**, and **quantum chaos and integrability**. I also explore **classical chaos** and **nonlinear dynamics**, which emerge as the **classical limit** of the quantum systems I study.
 
@@ -16,4 +18,4 @@ Besides conducting research, I am also involved in teaching. Since the beginning
 <strong style="color:#0066cc;">Please, feel free to contact me, whatever the reason.</strong>
 </div>
 
-{% include contact.md %}
+{% include_relative _includes/news.md %}

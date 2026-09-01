@@ -9,11 +9,14 @@ main:
     image: /assets/img/LMG_Lanczos_classic_quantum.png
     page: https://arxiv.org/abs/2607.12585
     summary: >
-      The dynamics of many-body quantum systems is often studied in the context of the Heisenberg picture, where the time evolution of operators is governed by the Heisenberg equation of motion. 
-      In this work, we present an alternative approach to studying many-body quantum dynamics by focusing on the time evolution of subspaces of operators. This subspace perspective allows us to 
-      identify a low-dimensional subspace of operators that captures the essential features of the dynamics, which we refer to as the Krylov space. We show that the Krylov space can be generated 
-      iteratively using the Lanczos algorithm, and we demonstrate that it provides a natural framework for understanding operator growth and thermalization in many-body quantum systems. We apply 
-      our approach to several examples, including spin chains and lattice gauge theories, and we discuss its implications for understanding quantum chaos and information scrambling.
+      How complex is a quantum system, and how can we compare the complexity of different systems? Krylov complexity has recently emerged as a simple and natural measure to answer these 
+      questions for the core objects of quantum mechanics: states and operators. An operator is a mathematical instruction that transforms a quantum state or extracts physical information 
+      from it. As time passes, these operators evolve, revealing a system's underlying dynamics. By examining the interplay between a chosen operator and the system's total energy engine, 
+      the Hamiltonian, an abstract mathematical space known as the Krylov space can be constructed. Krylov complexity quantifies how an operator spreads through this space over time. A 
+      natural question is whether this framework can also be applied to non-quantum, classical systems. In this work, we extend the definition of Krylov complexity to classical mechanics 
+      and test it on a class of simple quantum systems involving spin degrees of freedom. These systems transit into classical behavior as their spin magnitude grows large. Despite their 
+      apparent simplicity, we demonstrate that the inherent symmetries of these systems strictly constrain the dimension of their quantum Krylov space. Finally, we also propose a more 
+      refined measure of Krylov complexity by analyzing it within restricted energy windows, at both the classical and quantum levels.
 
   - title: Revisiting the Dynamical Properties of Pedlosky's Two-Layer Model for Finite Amplitude Baroclinic Waves
     authors: <strong>Nicolas De Ro</strong>, Jonathan Demaeyer, Stéphane Vannitsem
@@ -43,8 +46,11 @@ main:
     image: /assets/img/picture_master_thesis.png
     page: https://www.researchgate.net/publication/363645602_Local_Equilibrium_Approach_to_Quantum_Transport_in_Normal_Fluids
     summary: >
-      The study of quantum transport in normal fluids is a fundamental topic in condensed matter physics, with implications for understanding the behavior of electrons in metals and other materials. 
-      In this thesis, we present a local equilibrium approach to quantum transport, which allows us to derive a set of equations that describe the behavior of electrons in a normal fluid. We 
-      show that this approach provides a natural framework for understanding the transport properties of normal fluids, and we demonstrate its effectiveness by applying it to several examples, 
-      including the calculation of the electrical conductivity and thermal conductivity of metals. Our results provide new insights into the behavior of electrons in normal fluids and have 
-      potential applications in the design of new materials with improved transport properties.
+      From a wood stove warming a room in Winter to a tea bag diffusing in hot water, our world is shaped by movement and change. Transport phenomena encompass the familiar idea that a 
+      variation of a thermodynamic quantity — such as temperature or particle density — drives a motion, or more strictly, a flow. A central question in physics is: What is the exact 
+      mathematical relation between these thermodynamic forces and the resulting flows? To a first approximation, this relationship is linear, defining what we call transport coefficients. 
+      These include known properties such as thermal conductivity, diffusion coefficient, and viscosity. While their definitions are well understood macroscopically. a deeper puzzle remains: 
+      Macroscopic transport processes are inherently dissipative, generating entropy and creating an irreversible "arrow of time." This contrasts sharply with the time-reversal symmetry of 
+      the microscopic laws of quantum mechanics. In this work, we derive the Green–Kubo formulas, which define these macroscopic transport coefficients directly in terms of microscopic 
+      quantities derived from quantum-mechanical first principles. To achieve this, we use the local equilibrium approach, describing a system that is globally out of equilibrium while 
+      remaining in thermodynamic equilibrium at every local point. 

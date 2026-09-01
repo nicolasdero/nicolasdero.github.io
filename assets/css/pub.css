@@ -163,3 +163,34 @@ h3.pub-subsection { font-size: 0.95rem; font-weight: 700; color: #666; text-tran
     margin-top: 10px;
     padding: 10px 15px;
 }
+
+/* Fix image display on phone in publication section */
+
+/* Mobile layout for publication illustrations */
+@media screen and (max-width: 600px) {
+
+    .publications ol.bibliography li .pub-row {
+        display: block;
+    }
+
+    .publications ol.bibliography li .pub-row .col-sm-3.abbr {
+        width: 100%;
+        height: auto;
+        padding: 0 !important;
+        margin: 0 0 1.2rem 0;
+        text-align: center;
+    }
+
+    .publications ol.bibliography li .pub-row .col-sm-3.abbr .teaser {
+        display: block;
+        width: 240px;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .publications ol.bibliography li .pub-row .col-sm-9 {
+        width: 100%;
+        padding: 0 !important;
+    }
+}

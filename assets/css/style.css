@@ -12,7 +12,7 @@ body { background-color: #fff; padding: 0px; font: 17px/1.72 "Crimson Pro", seri
 
 .social-icons a:last-child { margin-right: 0; }
 
-.social-icons a:hover { background-color: transparent; color: #FF5F05 !important; transform: translateY(-4px); }
+.social-icons a:hover { background-color: transparent; color: #0066cc !important; transform: translateY(-4px); }
 
 .icon-button { background-color: white; border-radius: 3.6rem; cursor: pointer; display: inline-block; font-size: 2.0rem; height: 3.6rem; line-height: 3.6rem; margin: 0 5px; position: relative; text-align: center; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; width: 3.6rem; }
 
@@ -28,7 +28,42 @@ body { background-color: #fff; padding: 0px; font: 17px/1.72 "Crimson Pro", seri
 
 .github span { background-color: #000; }
 
-email { font-size: 13px; font-family: "Ubuntu Mono"; color: #666; }
+header email:first-of-type {
+    margin-top: 10px; /* Adjust this number to get your desired gap */
+}
+
+email {
+    display: block;
+    font-size: 13px;
+    font-family: "Ubuntu Mono";
+    color: #666;
+    margin-top: 0px; 
+}
+
+email + email {
+    margin-top: 0px;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+/* 3. Mobile Spacing (Restores the exact spacing you liked on your iPhone) */
+@media screen and (max-width: 960px) {
+    header position {
+        margin-top: 4px;
+        margin-bottom: 2px;
+    }
+    header > a:not(.avatar) {
+        margin-bottom: 6px;
+    }
+    email {
+        margin-top: 2px;
+    }
+    .social-icons {
+        margin-top: 10px;
+    }
+}
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
@@ -140,11 +175,11 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
 
-@media print, screen and (max-width: 960px) { .pub-row { display: flex; align-items: center; } div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-top: 80px; } section { border: none; border-top: 1px solid #e5e5e5; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header ul { position: absolute; right: 50px; top: 52px; } .image.avatar img { border-radius: 100%; width: 117px; padding: 4px; border: 2px solid #d0d0d0; box-shadow: 0 4px 16px rgba(19, 41, 75, 0.16); } section { padding:20px 20px } section.simple-page { padding-top: 65px; }}
+@media print, screen and (max-width: 960px) { .pub-row { display: flex; align-items: center; } div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-top: 80px; } section { border: none; border-top: 1px solid #e5e5e5; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header ul { position: absolute; right: 50px; top: 52px; } .image.avatar img { border-radius: 100%; width: 150px; height: 150px; padding: 4px; border: 2px solid #d0d0d0; box-shadow: 0 4px 16px rgba(19, 41, 75, 0.16); object-fit: cover;} section { padding:20px 20px } section.simple-page { padding-top: 65px; }}
 
 @media print, screen and (max-width: 960px) { body { word-wrap: break-word; padding: 0px; } .pub-row { display: flex; align-items: center; } pre, code { word-wrap: normal; } }
 
-@media print, screen and (max-width: 480px) { .pub-row { display: block; align-items: center; } body { padding: 0px; } header ul { width: 99%; } header li, header ul li + li + li { width: 33%; } .image.avatar img { border-radius: 100%; width: 95px; padding: 5px; border: 2px solid #d0d0d0; box-shadow: 0 4px 16px rgba(19, 41, 75, 0.16); } }
+@media print, screen and (max-width: 480px) { .pub-row { display: block; align-items: center; } body { padding: 0px; } header ul { width: 99%; } header li, header ul li + li + li { width: 33%; } .image.avatar img { border-radius: 100%; width: 125px; height: 125px; padding: 5px; border: 2px solid #d0d0d0; box-shadow: 0 4px 16px rgba(19, 41, 75, 0.16); object-fit: cover;} }
 
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 
@@ -184,6 +219,55 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .contact-list li { margin-bottom: 8px; line-height: 1.62; }
 .contact-list li:last-child { margin-bottom: 0; }
 .contact-list i { color: #13294B; margin-right: 7px; }
+
+/* Two-Column News Section */
+ul.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 12px;
+}
+
+ul.news-list li {
+  display: grid;
+  grid-template-columns: 100px 1fr; /* 110px column for dates, remaining space for text */
+  column-gap: 12px;
+  margin-bottom: 8px;
+  font-size: 1em;
+  line-height: 1.58;
+}
+
+.news-date {
+  font-weight: 600;
+  color: inherit;
+  white-space: nowrap;
+}
+
+.news-text {
+  color: inherit;
+}
+
+/* Ensure the 'Show more' button spans the full width */
+ul.news-list li.news-toggle {
+  display: block;
+  margin-top: 6px;
+  margin-right: 1fr;
+}
+
+/* PDF link */
+.pdf-link {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 24px;
+    margin-top: 50px;
+    margin-bottom: -15px;
+    padding: 0;
+}
+
+.pdf-icon {
+    width: 45px;
+    display: block;
+}
 
 /* CV layout styles */
 .cv-entry {

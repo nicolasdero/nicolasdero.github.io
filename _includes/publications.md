@@ -36,7 +36,7 @@
   <button class="btn btn-sm z-depth-0 summary-btn"
           type="button"
           onclick="toggle_summary('summary-{{ forloop.index }}')">
-      LAY SUMMARY
+      Lay summary
   </button>
   {% endif %}
 
@@ -55,6 +55,11 @@
 
 </ol>
 </div>
+
+<div style="margin-top: 2em;"></div>
+
+You can also find some of my master's research and other academic work on my <a href="https://www.researchgate.net/profile/Nicolas-De-Ro">ResearchGate page</a>, including material that is not strictly classified as a scientific publication.
+
 
 
 
