@@ -1,9 +1,3 @@
----
-layout: default
-title: Curriculum vitae
-permalink: /CV/
----
-
 <a href="/assets/documents/nicolas_dero_CV.pdf" class="pdf-link">
     <img src="/assets/img/PDF.svg" alt="PDF version of CV" class="pdf-icon">
 </a>

@@ -6,19 +6,16 @@ email: nicolas.dero (at) unige.ch
 private_email: nicolas.deromiralles (at) gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: nicolas de ro, nicolas dero, nicolasdero, de ro nicolas, dero nicolas, nicolasdero.com, nicolasdero.ch, nicolasdero.github.io, nicolasdero.me, nicolasdero.net, nicolasdero.org, github.com/nicolasdero
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
-
-# The option is used to enable the Illinois template.
-enable_hopkins_logo: false
+keywords: nicolas de ro, nicolas dero, nicolasdero, de ro nicolas, dero nicolas, deronicolas
+#canonical: 
+description: Nicolas De Ro is a PhD student at the University of Geneva. His research interests include quantum and statistical mechanics, with a focus on condensed matter and many-body physics.
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
-link_type: icon #text/icon
-#google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
+link_type: icon
+google_scholar: https://scholar.google.com/citations?user=d-gfkwgAAAAJ&hl=fr
 github_link: https://github.com/nicolasdero
 orcid: https://orcid.org/0009-0000-7690-1444
 linkedin: https://ch.linkedin.com/in/nicolas-de-ro-b8b30635a
@@ -28,9 +25,7 @@ avatar: /assets/img/avatar.jpeg
 
 # The following files will be removed from the generated website.
 exclude:
-  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
-  - CNAME

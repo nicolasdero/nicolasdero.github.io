@@ -74,7 +74,7 @@
     margin-right: calc(50% - 480px);
 }
 
-/* ─── Dropdown ─── */
+/* Dropdown */
 .topnav .dropdown {
     float: right;
     position: relative;
@@ -127,7 +127,7 @@
     display: block;
 }
 
-/* ─── Responsive: tablet / small desktop ─── */
+/* Responsive: tablet / small desktop */
 @media print, screen and (max-width: 1000px) {
     .topnav img             { margin-left: 16px; margin-top: 10.5pt;}
     .topnav a.right         { margin-right: 16px; }
@@ -135,7 +135,7 @@
     .topnav a.normal        { padding: 11px 7px; }
 }
 
-/* ─── Responsive: mobile (hamburger menu) ─── */
+/* Responsive: mobile (hamburger menu) */
 @media print, screen and (max-width: 960px) {
 
     .topnav img { 
@@ -192,11 +192,21 @@
         transition: opacity 0.25s ease, transform 0.25s ease;
     }
 
-    .topnav a.icon .icon-bars  { opacity: 1; transform: rotate(0deg); }
-    .topnav a.icon .icon-xmark { opacity: 0; transform: rotate(-90deg); }
+    .topnav a.icon .icon-bars  { 
+        opacity: 1; transform: rotate(0deg); 
+    }
 
-    .topnav a.icon.active .icon-bars  { opacity: 0; transform: rotate(90deg); }
-    .topnav a.icon.active .icon-xmark { opacity: 1; transform: rotate(0deg); }
+    .topnav a.icon .icon-xmark { 
+        opacity: 0; transform: rotate(-90deg); 
+    }
+
+    .topnav a.icon.active .icon-bars  { 
+        opacity: 0; transform: rotate(90deg); 
+    }
+
+    .topnav a.icon.active .icon-xmark { 
+        opacity: 1; transform: rotate(0deg); 
+    }
 
     .topnav a.right {
         color: white;
