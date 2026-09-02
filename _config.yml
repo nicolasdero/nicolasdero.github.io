@@ -1,7 +1,9 @@
 # Basic Information 
 title: Nicolas De Ro
 position: PhD student
+position_fr: Doctorant
 affiliation: University of Geneva
+affiliation_fr: Université de Genève
 email: nicolas.dero (at) unige.ch
 private_email: nicolas.deromiralles (at) gmail.com
 
@@ -12,6 +14,8 @@ description: Nicolas De Ro is a PhD student at the University of Geneva. His res
 
 # The option is used to show the last update time.
 enable_last_update: true
+last_update: Last update
+last_update_fr: Dernière mise à jour
 
 # Links
 link_type: icon

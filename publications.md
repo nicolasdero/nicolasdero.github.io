@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Publications
-permalink: /publications/
+lang: en
+fr_url: /fr/publications/
 ---
 
-{% include_relative _includes/publications.md %}
+{% include publications.md %}

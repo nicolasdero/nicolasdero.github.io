@@ -8,12 +8,13 @@
 
 <div class="software-page">
   <p class="software-intro">
-  Theoretical physics often presents us with complex models and difficult equations, making numerical simulations essential for testing our analytical predictions. In this light, the computer becomes a true laboratory. Over time, I have grown to love this numerical environment and scientific programming in general. My philosophy is to build reproducible, open-source software that can benefit the research community and curious minds alike. Below, you will find a list of my published software along with brief overviews of how these tools can be useful to you. Visit the corresponding GitHub pages for detailed documentation.
+  La physique théorique nous confronte très souvent à des modèles complexes et des équations difficules à résoudre. Les simulations numériques deviennent alors un outil nécessaire pour tester nos prédictions analytiques. L'ordinateur occupe alors une place centrale et se transforme en notre laboratoire. Au fil du temps, j'ai pris plaisir à développer un cadre numérique autour de mes recherches. Ma philosophie est de développer des softwares open source et reproductibles, susceptibles de bénéficier à la communauté scientifique comme aux esprits les plus curieux. Vous trouverez ci-dessous une liste des softwares que j’ai publiés, accompagnée d’un bref aperçu de l’utilité que pourraient avoir ces outils. Consultez les pages GitHub correspondantes pour une documentation détaillée.
+
   </p>
 
   <div class="software-list"> 
 
-  {% for software in site.data.softwares.main %} 
+  {% for software in site.data.softwares_fr.main %} 
     <div class="software-item"> 
       <div class="software-image"> 
         <img src="{{ software.image }}" alt="{{ software.title }}"> 
@@ -26,7 +27,7 @@
           <button class="btn btn-sm z-depth-0 summary-btn"
                   type="button"
                   onclick="toggle_summary('software-summary-{{ forloop.index }}')">
-              Useful to you?
+              Utile ?
           </button>
           {% endif %}
           {% if software.github %}

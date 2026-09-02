@@ -1,18 +1,23 @@
 main:
 
   - title: "Mountain & Stuff"
+    title_fr: "Montagne & Autre"
     url: mountains/
     right: true 
   
-  - title: "Softwares"
+  - title: "Software"
+    title_fr: "Software"
     url: softwares/
 
   - title: "Publications"
+    title_fr: "Publications"
     url: publications/
 
   - title: "CV"
+    title_fr: "CV"
     url: CV/
 
   - title: "Home"
+    title_fr: "Accueil"
     url: 
 

@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/pub.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/publications.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/nav.css" | relative_url }}">
 
     <!-- Show more/show less section of news on the homepage -->
@@ -94,12 +94,26 @@
 
         <h1>{{ site.title }}</h1>
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        {% endif %}
+        {% if page.lang == "fr" %}
 
-        {% if site.affiliation %}
-        <position style="font-size:1.10rem;">{{ site.affiliation }}</position>
+          {% if site.position_fr %}
+          <position style="font-size:1.10rem;">{{ site.position_fr }}</position>
+          {% endif %}
+
+          {% if site.affiliation_fr %}
+          <position style="font-size:1.10rem;">{{ site.affiliation_fr }}</position>
+          {% endif %}
+
+        {% else %}
+
+          {% if site.position %}
+          <position style="font-size:1.10rem;">{{ site.position }}</position>
+          {% endif %}
+
+          {% if site.affiliation %}
+          <position style="font-size:1.10rem;">{{ site.affiliation }}</position>
+          {% endif %}
+
         {% endif %}
 
         {% if site.email %}
@@ -134,17 +148,41 @@
           {% endif %}
         </div>
 
-        {% if site.enable_last_update %}
-        <div style="font-size: 16px; font-weight: inherit; margin-top: 17.5px;"><i>Last update:
+        <div style="font-size: 16px; font-weight: inherit; margin-top: 17.5px;">
+          <i>
+            {% if page.lang == "fr" %}
+              Dernière mise à jour:
               <script>
-                const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+                const monthNames = [
+                  "janvier", "février", "mars", "avril", "mai", "juin",
+                  "juillet", "août", "septembre", "octobre", "novembre", "décembre"
                 ];
+
                 var modiDate = new Date(document.lastModified);
-                var showAs = modiDate.getDate() + " " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
+                var showAs = modiDate.getDate() + " " +
+                            monthNames[modiDate.getMonth()] + " " +
+                            modiDate.getFullYear();
+
                 document.write(showAs);
-              </script></i>
+              </script>
+            {% else %}
+              Last update:
+              <script>
+                const monthNames = [
+                  "January", "February", "March", "April", "May", "June",
+                  "July", "August", "September", "October", "November", "December"
+                ];
+
+                var modiDate = new Date(document.lastModified);
+                var showAs = modiDate.getDate() + " " +
+                            monthNames[modiDate.getMonth()] + " " +
+                            modiDate.getFullYear();
+
+                document.write(showAs);
+              </script>
+            {% endif %}
+          </i>
         </div>
-        {% endif %}
         {% endif %}
       </header>
     

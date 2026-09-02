@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Curriculum vitae
-permalink: /CV/
+lang: en
+fr_url: /fr/CV/
 ---
 
-{% include_relative _includes/CV.md %}
+{% include CV.md %}

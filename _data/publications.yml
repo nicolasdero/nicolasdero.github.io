@@ -10,11 +10,11 @@ main:
     page: https://arxiv.org/abs/2607.12585
     summary: >
       How complex is a quantum system, and how can we compare the complexity of different systems? Krylov complexity has recently emerged as a simple and natural measure to answer these 
-      questions for the core objects of quantum mechanics: states and operators. An operator is a mathematical instruction that transforms a quantum state or extracts physical information 
-      from it. As time passes, these operators evolve, revealing a system's underlying dynamics. By examining the interplay between a chosen operator and the system's total energy engine, 
+      questions for the fundamental objects of quantum mechanics: states and operators. An operator is a mathematical instruction that transforms a quantum state or extracts physical information 
+      from it. As time passes, these operators evolve, revealing the system's underlying dynamics. By examining the interplay between a chosen operator and the system's total energy operator, 
       the Hamiltonian, an abstract mathematical space known as the Krylov space can be constructed. Krylov complexity quantifies how an operator spreads through this space over time. A 
       natural question is whether this framework can also be applied to non-quantum, classical systems. In this work, we extend the definition of Krylov complexity to classical mechanics 
-      and test it on a class of simple quantum systems involving spin degrees of freedom. These systems transit into classical behavior as their spin magnitude grows large. Despite their 
+      and test it on a class of simple quantum systems involving spin degrees of freedom. These systems transition into classical behavior as their spin magnitude grows large. Despite their 
       apparent simplicity, we demonstrate that the inherent symmetries of these systems strictly constrain the dimension of their quantum Krylov space. Finally, we also propose a more 
       refined measure of Krylov complexity by analyzing it within restricted energy windows, at both the classical and quantum levels.
 
@@ -46,10 +46,10 @@ main:
     image: /assets/img/publications/picture_master_thesis.png
     page: https://www.researchgate.net/publication/363645602_Local_Equilibrium_Approach_to_Quantum_Transport_in_Normal_Fluids
     summary: >
-      From a wood stove warming a room in Winter to a tea bag diffusing in hot water, our world is shaped by movement and change. Transport phenomena encompass the familiar idea that a 
+      From a wood stove warming a room in winter to a tea bag diffusing in hot water, our world is shaped by movement and change. Transport phenomena encompass the familiar idea that a 
       variation of a thermodynamic quantity — such as temperature or particle density — drives a motion, or more strictly, a flow. A central question in physics is: What is the exact 
       mathematical relation between these thermodynamic forces and the resulting flows? To a first approximation, this relationship is linear, defining what we call transport coefficients. 
-      These include known properties such as thermal conductivity, diffusion coefficient, and viscosity. While their definitions are well understood macroscopically. a deeper puzzle remains: 
+      These include known properties such as thermal conductivity, diffusion coefficient, and viscosity. While their definitions are well understood macroscopically, a deeper puzzle remains: 
       Macroscopic transport processes are inherently dissipative, generating entropy and creating an irreversible "arrow of time." This contrasts sharply with the time-reversal symmetry of 
       the microscopic laws of quantum mechanics. In this work, we derive the Green–Kubo formulas, which define these macroscopic transport coefficients directly in terms of microscopic 
       quantities derived from quantum-mechanical first principles. To achieve this, we use the local equilibrium approach, describing a system that is globally out of equilibrium while 

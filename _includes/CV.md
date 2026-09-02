@@ -75,7 +75,7 @@ Department of Theoretical Physics, group of Prof. <a href="https://fiteoweb.unig
 September 2020 – August 2022
 </div>
 <div class="cv-description">
-<strong>Master's degree</strong>, Université Libre de Bruxelles<br>
+<strong>Master's degree</strong>, Université libre de Bruxelles<br>
 Master's degree in Physics, obtained with 90%, <i>La Plus Grande Distinction</i> (<i>The Highest Honors</i>).
 </div>
 </div>
@@ -85,7 +85,7 @@ Master's degree in Physics, obtained with 90%, <i>La Plus Grande Distinction</i>
 September 2017 – June 2020
 </div>
 <div class="cv-description">
-<strong>Bachelor's degree</strong>, Université Libre de Bruxelles<br>
+<strong>Bachelor's degree</strong>, Université libre de Bruxelles<br>
 Bachelor's degree in Physics, obtained with 72%, <i>Distinction</i> (<i>Honors</i>).
 </div>
 </div>
@@ -107,7 +107,7 @@ European baccalaureate, obtained with 88%.
 October 2021 – August 2022
 </div>
 <div class="cv-description">
-<strong>Master's thesis</strong>, Université Libre de Bruxelles<br>
+<strong>Master's thesis</strong>, Université libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164UK.php">Center for Nonlinear Phenomena and Complex Systems</a>.<br>
 <u>Title</u>: <i>Local equilibrium approach to quantum transport in normal fluids</i>.<br>
 Supervised by Prof. <a href="https://gaspard.pierre.web.ulb.be/">Pierre Gaspard</a>.
@@ -119,7 +119,7 @@ Supervised by Prof. <a href="https://gaspard.pierre.web.ulb.be/">Pierre Gaspard<
 July – August 2021
 </div>
 <div class="cv-description">
-<strong>Internship</strong>, Université Libre de Bruxelles<br>
+<strong>Internship</strong>, Université libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164UK.php">Center for Nonlinear Phenomena and Complex Systems</a>.<br>
 <u>Title</u>: <i>Superfluid-Mott insulator transition in the Bose-Hubbard model</i>.<br>
 Supervised by Prof. <a href="https://www.nathan-goldman-physics.com/">Nathan Goldman</a>.
@@ -131,7 +131,7 @@ Supervised by Prof. <a href="https://www.nathan-goldman-physics.com/">Nathan Gol
 November 2020 – April 2021
 </div>
 <div class="cv-description">
-<strong>Internship</strong>, Université Libre de Bruxelles<br>
+<strong>Internship</strong>, Université libre de Bruxelles<br>
 <a href="https://dynamics.ulb.be/">Laboratory of Polymer and Soft Matter Dynamics</a>.<br>
 <u>Title</u>: <i>Asymmetric lipid transfer between vesicles measured by QCM-D</i>.<br>
 Supervised by Prof. <a href="https://scholar.google.com/citations?user=624TAjIAAAAJ&hl=es">Patricia Maria Losada Pérez</a>.
@@ -143,7 +143,7 @@ Supervised by Prof. <a href="https://scholar.google.com/citations?user=624TAjIAA
 May – June 2020
 </div>
 <div class="cv-description">
-<strong>Bachelor's thesis</strong>, Université Libre de Bruxelles<br>
+<strong>Bachelor's thesis</strong>, Université libre de Bruxelles<br>
 <a href="https://squares.ulb.be/">Spectroscopy, Quantum Chemistry and Atmospheric Remote Sensing service</a>.<br>
 <u>Title</u>: <i>Fonction de localisation électronique</i>.<br>
 Supervised by Prof. <a href="https://scholar.google.com/citations?hl=en&user=3c2AYK8AAAAJ&view_op=list_works&sortby=pubdate">Emilie Cauët</a>.
@@ -167,7 +167,7 @@ In recognition of the quality of the work accomplished during the Master's degre
 September 2022
 </div>
 <div class="cv-description">
-<strong>Second AScBr Prize</strong>, awarded by the <a href="https://ulbascbr.wixsite.com/ascbr-ulb">Association des Diplômés de la Faculté des Sciences de l'Université Libre de Bruxelles</a>.<br>
+<strong>Second AScBr Prize</strong>, awarded by the <a href="https://ulbascbr.wixsite.com/ascbr-ulb">Association des Diplômés de la Faculté des Sciences de l'Université libre de Bruxelles</a>.<br>
 In recognition of the high scientific level of the Master's thesis and the ability to vulgarize the results to a non-professional audience (250 EUR).
 </div>
 </div>
@@ -178,7 +178,7 @@ January 2022
 </div>
 <div class="cv-description">
 <strong>Postgraduate Fellowship</strong>, awarded by the <a href="https://fwa.ulb.be/subsides-et-financements/bourses-etudes/?lang=en">Philippe Wiener – Maurice Anspach Foundation</a>. <br>
-One-year scholarship awarded to graduates from the Université Libre de Bruxelles who wish to pursue postgraduate studies at the University of Cambridge or Oxford. (Unused scholarship.)
+One-year scholarship awarded to graduates from the Université libre de Bruxelles who wish to pursue postgraduate studies at the University of Cambridge or Oxford. (Unused scholarship)
 </div>
 </div>
 
@@ -241,7 +241,7 @@ Informal one-day workshop designed to provide participants with an overview of r
 <div class="cv-date"> 26 November–2 December 2023 
 </div> 
 <div class="cv-description"> <strong>Workshop on Chaos and Information Dynamics in Quantum Many-Body Systems</strong>, Erice, Italy.<br> 
-Focus on a comprehensive account of quantum chaotic dynamics driven by many-body interactions: scrambling, out-of-time-order correlations, thermalization dynamics.<br> <i>Personal contribution: None.</i> 
+Focused on a comprehensive account of quantum chaotic dynamics driven by many-body interactions: scrambling, out-of-time-order correlations, thermalization dynamics.<br> <i>Personal contribution: None.</i> 
 </div> 
 </div> 
 
@@ -301,7 +301,7 @@ Main course given by Profs. <a href="https://inspirehep.net/authors/1018703">Ant
 Spring semester 2023
 </div>
 <div class="cv-description">
-<strong>Group Theory for Physics Students</strong>, [BA3 course]<br>
+<strong>Group theory for physics students</strong>, [BA3 course]<br>
 Main course given by Prof. <a href="https://inspirehep.net/authors/1009762">Stefano Foffa</a>.
 </div>
 </div>

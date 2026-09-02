@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Softwares
-permalink: /softwares/
+title: Software
+lang: en
+fr_url: /fr/softwares/
 ---
 
-{% include_relative _includes/softwares.md %}
+{% include softwares.md %}

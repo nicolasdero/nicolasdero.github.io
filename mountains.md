@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mountain & Stuff
-permalink: /mountains/
+lang: en
+fr_url: /fr/mountains/
 ---
 
-{% include_relative _includes/mountains.md %}
+{% include mountains.md %}

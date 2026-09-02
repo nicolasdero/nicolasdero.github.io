@@ -1,0 +1,59 @@
+main:
+
+  - title: From phase space to Krylov space, one shell at a time
+    authors: <strong>Nicolas De Ro</strong>, Adrián Sánchez-Garrido, Julian Sonner
+    conference_short: arXiv
+    conference: arXiv:2607.12585, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2607.12585
+    image: /assets/img/publications/LMG_Lanczos_classic_quantum.png
+    page: https://arxiv.org/abs/2607.12585
+    summary: >
+      Comment quantifier la complexité d'un système quantique et comment comparer la complexité de différents systèmes ? La complexité de Krylov a récemment émergé comme une mesure simple 
+      et naturelle pour répondre à ces questions pour les objets fondamentaux de la mécanique quantique : les états et les opérateurs. Un opérateur est une instruction mathématique qui 
+      transforme un état quantique ou extrait des informations physiques de celui-ci. Au fil du temps, ces opérateurs évoluent, révélant la dynamique sous-jacente du système. En examinant 
+      l'interaction entre un opérateur fixé et l'opérateur d'énergie totale du système, l'hamiltonien, un espace mathématique abstrait connu sous le nom d'espace de Krylov peut être construit. 
+      La complexité de Krylov quantifie la manière dont un opérateur se propage dans cet espace au fil du temps. Une question naturelle est de savoir si ce cadre peut également être appliqué 
+      aux systèmes classiques non quantiques. Dans ce travail, nous étendons la définition de la complexité de Krylov à la mécanique classique et la testons sur une classe de systèmes 
+      quantiques simples impliquant des degrés de liberté de spin. Ces systèmes deviennent classiques à mesure que la magnitude de spin augmente. Malgré leur apparente simplicité, nous 
+      démontrons que les symétries inhérentes de ces systèmes contraignent fortement la dimension de leur espace de Krylov quantique. Enfin, nous proposons également une mesure plus raffinée
+      de la complexité de Krylov en la contraignant à des intervalles d'énergie, à la fois au niveau classique et quantique.
+
+  - title: Revisiting the Dynamical Properties of Pedlosky's Two-Layer Model for Finite Amplitude Baroclinic Waves
+    authors: <strong>Nicolas De Ro</strong>, Jonathan Demaeyer, Stéphane Vannitsem
+    conference_short: arXiv
+    conference: arXiv:2604.14123, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2604.14123
+    image: /assets/img/publications/highlight_image_bassin.png
+    page: https://arxiv.org/abs/2604.14123
+    summary: >
+      La dynamique de l'atmosphère et des océans est régie par des équations du mouvement dérivées de principes physiques fondamentaux. Les observations indiquent que les écoulements 
+      atmosphériques et océaniques sont généralement dépendants du temps et très variables. L'émergence de telles solutions par le biais d'instabilités est un élément essentiel de la 
+      compréhension des mouvements à grande échelle. L'instabilité barocline provient de la présence d'un gradient horizontal de température dans un fluide en rotation soumis à un 
+      cisaillement vertical du vent. La croissance de ces ondes instables génère des tempêtes et influence les circulations atmosphériques et océaniques mondiales. Bien que l'étude de 
+      la croissance de ces ondes soit une tâche difficile dans le système terrestre réel, modéliser l'atmosphère ou l'océan comme deux couches de fluides stratifiés en rotation offre un 
+      cadre d'investigation idéal, qui capture l'essentiel de la dynamique. Nous utilisons ici une telle représentation, proposée à l'origine par Joseph Pedlosky, pour explorer la 
+      croissance non-linéaire des ondes barocliniques à amplitude finie, qui présentent du chaos déterministe et d'autres caractéristiques complexes à mesure que la dissipation est 
+      introduite. Cette étude revisite le modèle à deux couches à travers le prisme de techniques analytiques et numériques modernes permettant une description détaillée de la nature 
+      des solutions générées par le système. Parmi les principales conclusions, la présence de multiples attracteurs coexistants avec des frontières de bassin complexes révèle une 
+      complexité supplémentaire du système qui rend le problème de prévision beaucoup plus difficile.
+
+  - title: Local Equilibrium Approach to Quantum Transport in Normal Fluids
+    authors: <strong>Nicolas De Ro</strong>
+    conference_short: thesis
+    conference: Thèse de master, 2022.
+    year: 2022
+    pdf: /assets/documents/master_thesis.pdf
+    image: /assets/img/publications/picture_master_thesis.png
+    page: https://www.researchgate.net/publication/363645602_Local_Equilibrium_Approach_to_Quantum_Transport_in_Normal_Fluids
+    summary: >
+      D'un poêle à bois réchauffant une pièce en hiver à un sachet de thé diffusant dans de l'eau chaude, notre monde est façonné par le mouvement et le changement. Les phénomènes de 
+      transport englobent l'idée familière selon laquelle une variation d'une quantité thermodynamique — telle que la température ou la densité de particules — entraîne un mouvement, ou plus
+      précisément, un flux. Une question centrale en physique est de comprendre quelle est la relation mathématique exacte entre ces forces thermodynamiques et les flux qui en résultent. En première 
+      approximation, cette relation est linéaire, définissant ce que nous appelons les coefficients de transport. Ceux-ci incluent des propriétés connues telles que la conductivité thermique, 
+      le coefficient de diffusion et la viscosité. Bien que leurs définitions soient bien comprises au niveau macroscopique, une problématique plus profond subsiste : les processus de transport 
+      macroscopiques sont intrinsèquement dissipatifs, générant de l'entropie et créant ainsi une "flèche du temps" irréversible. Ceci contraste avec la symétrie par renversement temporel inhérente 
+      aux lois microscopiques de la mécanique quantique. Dans ce travail, nous dérivons les formules de Green-Kubo, qui définissent ces coefficients de transport macroscopiques directement 
+      en termes de quantités microscopiques dérivées de principes fondamentaux de la mécanique quantique. Pour y parvenir, nous utilisons l'approche d'équilibre local, décrivant un système 
+      qui reste globalement en dehors de d'équilibre tout en restant localement à l'équilibre thermodynamique.
