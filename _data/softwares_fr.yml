@@ -2,15 +2,15 @@ main:
 
   - title: OperatorSpreadingLMG
     description: > 
-      Implémentation Python de la dynamique de croissance d'opérateurs dans les modèles de spins quantiques entièrement connectés, avec application concrète au modèle LMG. [Sera bientôt publié]
+      Implémentation Python de la dynamique d'opérateurs et de leur complexité de croissance dans des modèles de spins quantiques entièrement connectés, avec application concrète au modèle LMG. [Sera bientôt publié]
     image: /assets/img/softwares/probability_animation.gif
     github: https://github.com/nicolasdero/OperatorSpreadingLMG
     useful: >
-      Ce code contient des fonctions pour faire évoluer un opérateur dans le <strong>schéma de Heisenberg</strong> étant donné un Hamiltonien générique et pour calculer la 
+      Ce code contient des fonctions pour faire évoluer un opérateur dans la <strong>représentation de Heisenberg</strong> à partir d'un hamiltonien générique et pour calculer la 
       <strong>croissance d'opérateur</strong> et la <strong>distribution de probabilité du poids de Pauli</strong>. Pour les systèmes avec symétrie d'invariance par permutation, 
-      il montre comment les opérateurs peuvent être efficacement évolués dans l'<strong>espace OTSS</strong>, bien que l'implémentation soit restreinte au modèle LMG et à sa version "kicked". 
+      il montre comment l'évolution des opérateurs peut être calculée efficacement dans l'espace <strong>OTSS</strong>, bien que l'implémentation soit restreinte au modèle LMG et à sa version « kicked ». 
       Il contient également une fonction pour construire la <strong>base complète des opérateurs propres</strong> de l'espace OTSS. Au niveau classique, le code contient des fonctions pour 
-      calculer la dynamique générée par le <strong>modèle LMG classique "kicked"</strong> (<strong>rotateur classique "kicked"</strong>) et ses <strong>exposants de Lyapunov</strong>. 
+      calculer la dynamique générée par le <strong>modèle LMG classique « kicked »</strong> (<strong>rotateur classique « kicked »</strong>) et ses <strong>exposants de Lyapunov</strong>. 
       L'algorithme des exposants de Lyapunov est générique et peut être appliqué à tout système dynamique à temps discret.
 
   - title: KrylovQuantumClassical
@@ -22,9 +22,9 @@ main:
     useful: >
       Ce code contient une implémentation générique en Mathematica de l'<strong>algorithme de Lanczos pour les opérateurs</strong>, en utilisant l'arithmétique à précision arbitraire avec 
       un produit scalaire à température infinie et un produit scalaire microcanonique. Il comprend également des fonctions génériques pour étudier la <strong>transition de phase</strong>, 
-      le <strong>spectre d'énergie</strong>, les <strong>symétries</strong> et les <strong>fonctions d'autocorrélation</strong> d'un Hamiltonien donné, adaptées aux modèles LMG et FP dans ce 
-      cas précis. L'<strong>algorithme de Lanczos classique</strong> a été conçu pour être suffisamment général pour s'appliquer à tout modèle de spin collectif. Dans les deux cas, quantique 
-      et classique, le calcul de la <strong>complexité de Krylov</strong> et de sa <strong>valeur de saturation à long terme</strong> reste générique et peut être appliqué à toute séquence 
+      le <strong>spectre d'énergie</strong>, les <strong>symétries</strong> et les <strong>fonctions d'autocorrélation</strong> d'un hamiltonien donné, adaptées aux modèles LMG et FP dans ce 
+      cas précis. L'<strong>algorithme de Lanczos classique</strong> a été conçu pour être suffisamment général pour s'appliquer à tout modèle de spin collectif. Dans les deux cas, classique et
+      quantique, le calcul de la <strong>complexité de Krylov</strong> et de sa <strong>valeur de saturation à temps long</strong> reste générique et peut être appliqué à toute séquence 
       de Lanczos.
 
   - title: Pydlosky
@@ -34,7 +34,7 @@ main:
     github: https://github.com/Climdyn/Pydlosky
     zenodo: https://zenodo.org/records/19452069
     useful: >
-      Le code contient un intégrateur Numba-optimisé qui peut être adapté pour l'<strong>intégration numérique</strong> de systèmes dynamiques à temps continus génériques. Il est spécifiquement conçu
+      Le code contient un intégrateur optimisé à l'aide de Numba qui peut être adapté pour l'<strong>intégration numérique</strong> de systèmes dynamiques à temps continu génériques. Il est spécifiquement conçu
       pour intégrer de nombreuses conditions initiales en parallèle. Il comprend également une implémentation numérique de l'algorithme de <i>Benettin et al.</i> pour le calcul des 
-      <strong>exposants de Lyapunov</strong> de systèmes dynamiques continus. Dans l'ensemble, le code contient de nombreuses petites fonctions pour l'<strong>analyse non-linéaire</strong> des
-      systèmes dynamiques. Le notebook fournit également un bon exemple d'une <strong>analyse de continuation numérique</strong> utilisant le <strong>logiciel AUTO</strong>.
+      <strong>exposants de Lyapunov</strong> de systèmes dynamiques continus. Dans l'ensemble, le code contient de nombreuses petites fonctions pour l'<strong>analyse non linéaire</strong> des
+      systèmes dynamiques. Le notebook fournit également un bon exemple d'une <strong>analyse de continuation numérique</strong> impliquant le <strong>logiciel AUTO</strong>.

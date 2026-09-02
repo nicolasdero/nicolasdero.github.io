@@ -47,6 +47,6 @@
 </div>
 
 <div style="margin-top: 2em;"></div>
-Vous pouvez également retrouver certains de mes travaux de master ainsi que d’autres travaux académiques sur ma <a href="https://www.researchgate.net/profile/Nicolas-De-Ro">page ResearchGate</a>, notamment des travaux qui ne sont à proprement parler des publications scientifiques.
+Vous pouvez également retrouver certains de mes travaux de master ainsi que d’autres travaux académiques sur ma <a href="https://www.researchgate.net/profile/Nicolas-De-Ro">page ResearchGate</a>, notamment des travaux qui ne sont pas, à proprement parler, des publications scientifiques.
 
 

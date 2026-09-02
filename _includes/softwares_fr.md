@@ -8,7 +8,7 @@
 
 <div class="software-page">
   <p class="software-intro">
-  La physique théorique nous confronte très souvent à des modèles complexes et des équations difficules à résoudre. Les simulations numériques deviennent alors un outil nécessaire pour tester nos prédictions analytiques. L'ordinateur occupe alors une place centrale et se transforme en notre laboratoire. Au fil du temps, j'ai pris plaisir à développer un cadre numérique autour de mes recherches. Ma philosophie est de développer des softwares open source et reproductibles, susceptibles de bénéficier à la communauté scientifique comme aux esprits les plus curieux. Vous trouverez ci-dessous une liste des softwares que j’ai publiés, accompagnée d’un bref aperçu de l’utilité que pourraient avoir ces outils. Consultez les pages GitHub correspondantes pour une documentation détaillée.
+  La physique théorique nous confronte très souvent à des modèles complexes et à des équations difficiles à résoudre. Les simulations numériques deviennent alors un outil nécessaire pour tester nos prédictions analytiques. L'ordinateur occupe en ce sens une place centrale et se transforme ainsi en laboratoire. Au fil du temps, j'ai pris plaisir à développer un cadre numérique autour de mes recherches. Ma philosophie est de développer des softwares open source et reproductibles, susceptibles de profiter à la communauté scientifique comme aux esprits les plus curieux. Vous trouverez ci-dessous une liste des softwares que j’ai publiés, accompagnée d’un bref aperçu de l’utilité de ces outils. Consultez les pages GitHub correspondantes pour une documentation détaillée.
 
   </p>
 

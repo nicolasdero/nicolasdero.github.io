@@ -1,4 +1,4 @@
-<a href="/assets/documents/nicolas_dero_CV.pdf" class="pdf-link">
+<a href="/assets/documents/nicolas_dero_CV_EN.pdf" class="pdf-link">
     <img src="/assets/img/PDF.svg" alt="PDF version of CV" class="pdf-icon">
 </a>
 
@@ -45,7 +45,7 @@ French (native), English (full professional) and Spanish (limited)
 Work address 
 </div> 
 <div class="cv-description"> 
-Boulevard d’Yvoy 16, 1205 Genève, Switzerland. Office location: <a href="https://www.openstreetmap.org/way/1375359513">SC1 215</a>
+Boulevard d’Yvoy 16, 1205 Genève, Switzerland. Office <a href="https://www.openstreetmap.org/way/1375359513">SC1 215</a>
 </div> 
 </div>
 
@@ -281,7 +281,7 @@ Hot topics in driven, two-dimensional, and topological matter.<br>
 Spring semester 2026
 </div>
 <div class="cv-description">
-<strong>Méthodes numériques pour physiciens I</strong> (<strong>Numerical methods for physicists I</strong>), [BA1 course]<br>
+<strong>Méthodes numériques pour physiciens I</strong> (<strong>Numerical methods for physicists I</strong>) [BA1 course]<br>
 Main course given by Dr. <a href="https://giamarchi.unige.ch/christophe-berthod/">Christophe Berthod</a>.
 </div>
 </div>
@@ -291,7 +291,7 @@ Main course given by Dr. <a href="https://giamarchi.unige.ch/christophe-berthod/
 Autumn semesters 2023-2026
 </div>
 <div class="cv-description">
-<strong>Mécanique classique pour mathématicien·nes</strong> (<strong>Classical mechanics for mathematicians</strong>), [BA3 course]<br>
+<strong>Mécanique classique pour mathématicien·nes</strong> (<strong>Classical mechanics for mathematicians</strong>) [BA3 course]<br>
 Main course given by Profs. <a href="https://inspirehep.net/authors/1018703">Anton Alekseev</a> and <a href="https://fiteoweb.unige.ch/~sonner/">Julian Sonner</a>.
 </div>
 </div>
@@ -301,7 +301,7 @@ Main course given by Profs. <a href="https://inspirehep.net/authors/1018703">Ant
 Spring semester 2023
 </div>
 <div class="cv-description">
-<strong>Group theory for physics students</strong>, [BA3 course]<br>
+<strong>Group theory for physics students</strong> [BA3 course]<br>
 Main course given by Prof. <a href="https://inspirehep.net/authors/1009762">Stefano Foffa</a>.
 </div>
 </div>

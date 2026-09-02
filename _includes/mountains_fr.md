@@ -10,7 +10,7 @@
 
 </div>
 
-Amoureux de la montagne et membre actif du <a href="https://www.sac-cas.ch/fr/">Club Alpin Suisse CAS</a> (section genevoise), j'ai beaucoup de plaisir à partager mes randonnées et autres aventures en montagne. Vous trouverez ci-dessous une liste non-exhaustive de mes randonnées.
+Amoureux de la montagne et membre actif du <a href="https://www.sac-cas.ch/fr/">Club Alpin Suisse CAS</a> (section genevoise), j'ai beaucoup de plaisir à partager mes randonnées et autres aventures en montagne. Vous trouverez ci-dessous une liste non exhaustive de mes randonnées.
 
 <div style="margin-top: 2em;"></div>
 
@@ -22,13 +22,13 @@ Pour celles et ceux qui ne sont pas familiers avec cette terminologie, 100 m de 
 <ul>
 
   <li>
-    <strong>Le Grand-Bornand à Bonneville par le Refuge de Lessy</strong> (2 jours)<br>
+    <strong>Du Grand-Bornand à Bonneville par le Refuge de Lessy</strong> (2 jours)<br>
     31.3 km&nbsp;&nbsp;·&nbsp;&nbsp;1850 m D+&nbsp;&nbsp;·&nbsp;&nbsp;2305 m D−&nbsp;&nbsp;·&nbsp;&nbsp;T3&nbsp;&nbsp;·&nbsp;&nbsp;GPX <a href="/assets/GPX/grand_bornand_lessy.gpx">jour 1</a> et <a href="/assets/gpx/lessy_bonneville.gpx">jour 2</a>
   </li>
 
   <li>
     <strong>Boucle du Grand Balcon Nord par le Plan de l'Aiguille du Midi et le Refuge de Montenvers</strong><br>
-    17.1 km&nbsp;&nbsp;·&nbsp;&nbsp;1370 m D+&nbsp;&nbsp;·&nbsp;&nbsp;1360 m D−&nbsp;&nbsp;·&nbsp;&nbsp;T3&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/assets/GPX/grand_balcon_nord.gpx">GPX</a>
+    17.1 km&nbsp;&nbsp;·&nbsp;&nbsp;1370 m D+&nbsp;&nbsp;·&nbsp;&nbsp;1360 m D−&nbsp;&nbsp;·&nbsp;&nbsp;sT3&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/assets/GPX/grand_balcon_nord.gpx">GPX</a>
   </li>
 
   <li>

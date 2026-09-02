@@ -11,7 +11,7 @@ main:
     summary: >
       How complex is a quantum system, and how can we compare the complexity of different systems? Krylov complexity has recently emerged as a simple and natural measure to answer these 
       questions for the fundamental objects of quantum mechanics: states and operators. An operator is a mathematical instruction that transforms a quantum state or extracts physical information 
-      from it. As time passes, these operators evolve, revealing the system's underlying dynamics. By examining the interplay between a chosen operator and the system's total energy operator, 
+      from it. As time passes, these operators evolve, revealing the system's underlying dynamical nature. By examining the interplay between a chosen operator and the system's total energy operator, 
       the Hamiltonian, an abstract mathematical space known as the Krylov space can be constructed. Krylov complexity quantifies how an operator spreads through this space over time. A 
       natural question is whether this framework can also be applied to non-quantum, classical systems. In this work, we extend the definition of Krylov complexity to classical mechanics 
       and test it on a class of simple quantum systems involving spin degrees of freedom. These systems transition into classical behavior as their spin magnitude grows large. Despite their 

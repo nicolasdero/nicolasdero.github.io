@@ -1,4 +1,4 @@
-<a href="/assets/documents/nicolas_dero_CV.pdf" class="pdf-link">
+<a href="/assets/documents/nicolas_dero_CV_FR.pdf" class="pdf-link">
     <img src="/assets/img/PDF.svg" alt="PDF version of CV" class="pdf-icon">
 </a>
 
@@ -45,20 +45,20 @@ français (langue maternelle), anglais (niveau professionnel) et espagnol (limit
 Lieu de travail
 </div> 
 <div class="cv-description"> 
-Boulevard d’Yvoy 16, 1205 Genève, Suisse. Localisation de mon bureau: <a href="https://www.openstreetmap.org/way/1375359513">SC1 215</a>
+Boulevard d’Yvoy 16, 1205 Genève, Suisse. Bureau <a href="https://www.openstreetmap.org/way/1375359513">SC1 215</a>
 </div> 
 </div>
 
 <div class="cv-entry"> 
 <div class="cv-date"> 
-Email professionel
+E-mail professionnel
 </div> 
 <div class="cv-description"> 
 <a href="mailto:nicolas.dero@unige.ch">nicolas.dero (at) unige.ch</a>
 </div> 
 </div>
 
-## Éducation
+## Formation
 
 <div class="cv-entry">
 <div class="cv-date">
@@ -109,7 +109,7 @@ octobre 2021 – août 2022
 <div class="cv-description">
 <strong>Thèse de master</strong>, Université libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164.php">Centre Interdisciplinaire de Phénomènes Non-linéaires et de Systèmes Complexes</a>.<br>
-<u>Titre</u>: <i>Local equilibrium approach to quantum transport in normal fluids</i>.<br>
+<u>Titre</u> : <i>Local equilibrium approach to quantum transport in normal fluids</i>.<br>
 Sous la supervision du Prof. <a href="https://gaspard.pierre.web.ulb.be/">Pierre Gaspard</a>.
 </div>
 </div>
@@ -121,7 +121,7 @@ juillet – août 2021
 <div class="cv-description">
 <strong>Stage</strong>, Université libre de Bruxelles<br>
 <a href="https://cvchercheurs.ulb.ac.be/Site/unite/ULB164.php">Centre Interdisciplinaire de Phénomènes Non-linéaires et de Systèmes Complexes</a>.<br>
-<u>Titre</u>: <i>Superfluid-Mott insulator transition in the Bose-Hubbard model</i>.<br>
+<u>Titre</u> : <i>Superfluid-Mott insulator transition in the Bose-Hubbard model</i>.<br>
 Sous la supervision du Prof. <a href="https://www.nathan-goldman-physics.com/">Nathan Goldman</a>.
 </div>
 </div>
@@ -133,7 +133,7 @@ novembre 2020 – avril 2021
 <div class="cv-description">
 <strong>Stage</strong>, Université libre de Bruxelles<br>
 <a href="https://dynamics.ulb.be/">Laboratory of Polymer and Soft Matter Dynamics</a>.<br>
-<u>Titre</u>: <i>Asymmetric lipid transfer between vesicles measured by QCM-D</i>.<br>
+<u>Titre</u> : <i>Asymmetric lipid transfer between vesicles measured by QCM-D</i>.<br>
 Sous la supervision du Prof. <a href="https://scholar.google.com/citations?user=624TAjIAAAAJ&hl=es">Patricia Maria Losada Pérez</a>.
 </div>
 </div>
@@ -145,7 +145,7 @@ mai – juin 2020
 <div class="cv-description">
 <strong>Thèse de bachelier</strong>, Université libre de Bruxelles<br>
 <a href="https://squares.ulb.be/">Spectroscopy, Quantum Chemistry and Atmospheric Remote Sensing service</a>.<br>
-<u>Titre</u>: <i>Fonction de localisation électronique</i>.<br>
+<u>Titre</u> : <i>Fonction de localisation électronique</i>.<br>
 Sous la supervision du Prof. <a href="https://scholar.google.com/citations?hl=en&user=3c2AYK8AAAAJ&view_op=list_works&sortby=pubdate">Emilie Cauët</a>.
 </div>
 </div>
@@ -157,7 +157,7 @@ Sous la supervision du Prof. <a href="https://scholar.google.com/citations?hl=en
 septembre 2022
 </div>
 <div class="cv-description">
-<strong>Prix Robert Brout</strong>, décerné par le <a href="https://solvayinstitutes.be/">International Solvay Institutes</a>.<br>
+<strong>Prix Robert Brout</strong>, décerné par les <a href="https://solvayinstitutes.be/">International Solvay Institutes</a>.<br>
 En reconnaissance de la qualité du travail accompli au cours du master (400 €).
 </div>
 </div>
@@ -168,7 +168,7 @@ septembre 2022
 </div>
 <div class="cv-description">
 <strong>Second prix AScBr</strong>, décerné par l'<a href="https://ulbascbr.wixsite.com/ascbr-ulb">Association des Diplômés de la Faculté des Sciences de l'Université libre de Bruxelles</a>.<br>
-En reconnaissance du haut niveau scientifique de la thèse de master et de la capacité de vulgariser les résultats à un public composé de non-experts (250 €).
+En reconnaissance du haut niveau scientifique de la thèse de master et de la capacité à vulgariser les résultats à un public composé de non-experts (250 €).
 </div>
 </div>
 
@@ -190,7 +190,7 @@ Bourse d’un an destinée aux diplômé·es de l’Université libre de Bruxell
 </div>
 <div class="cv-description">
 <strong><a href="https://warwick.ac.uk/fac/sci/physics/research/theory/events/mbqchaos2026/">Quantum Chaotic Many Body Dynamics 2026</a></strong>, Coventry, Royaume-Uni.<br>
-Cette conférence visait à réunir des chercheur·euses issus des communautés de la matière condensée, de la physique des hautes énergies et de l’information quantique, et à favoriser les échanges autour de la dynamique quantique chaotique des systèmes à nombreux corps et des thématiques associées.<br>
+Cette conférence visait à réunir des chercheur·euses issu·es des communautés de la matière condensée, de la physique des hautes énergies et de l’information quantique, et à favoriser les échanges autour de la dynamique quantique chaotique des systèmes à nombreux corps et des thématiques associées.<br>
 <i>Contribution personnelle : présentation d’un poster.</i>
 </div>
 </div>
@@ -211,7 +211,7 @@ Cette conférence a réuni des mathématicien·nes et des physicien·nes afin d�
 24–28 mars 2025
 </div>
 <div class="cv-description">
-<strong>Workshop on <a href="https://pcts.princeton.edu/events/2025/facets-entanglement">Facets of Entanglement</a> and visit of Princeton University</strong>, Princeton, États-Unis.<br>
+<strong><a href="https://pcts.princeton.edu/events/2025/facets-entanglement">Facets of Entanglement</a> et visite de l'Université de Princeton</strong>, Princeton, États-Unis.<br>
 Ce workshop visait à réunir des expert·es en information quantique, en mathématiques et en physique travaillant sur les différentes facettes de l’intrication dans les systèmes à nombreux corps.<br>
 <i>Contribution personnelle : rencontres avec des professeurs de l’université.</i>
 </div>
@@ -230,7 +230,7 @@ Ce workshop a été organisé en l’honneur de Pierre Gaspard et portait sur di
 
 <div class="cv-entry">
 <div class="cv-date">
-1er juillet 2024
+1<sup>er</sup> juillet 2024
 </div>
 <div class="cv-description">
 <strong>New Perspectives in Quantum Many-Body Physics</strong>, Zurich, Suisse.<br>
@@ -252,7 +252,7 @@ Ce workshop était consacré à une étude approfondie de la dynamique quantique
 
 <div class="cv-entry">
 <div class="cv-date">
-21 août–1er septembre 2023
+21 août–1<sup>er</sup> septembre 2023
 </div>
 <div class="cv-description">
 <strong><a href="https://indico.ictp.it/event/10201/overview">School on Quantum Many-Body Phenomena out of Equilibrium: From Chaos to Criticality</a></strong>, Trieste, Italie.<br>
@@ -301,8 +301,8 @@ Présentation de la thèse de master.
 semestre de printemps 2026
 </div>
 <div class="cv-description">
-<strong>Méthodes numériques pour physiciens I</strong>, [cours de BA1]<br>
-Cours ex cathedra donné par Dr. <a href="https://giamarchi.unige.ch/christophe-berthod/">Christophe Berthod</a>.
+<strong>Méthodes numériques pour physiciens I</strong> [cours de BA1]<br>
+Cours <i>ex cathedra</i> donné par Dr. <a href="https://giamarchi.unige.ch/christophe-berthod/">Christophe Berthod</a>.
 </div>
 </div>
 
@@ -311,8 +311,8 @@ Cours ex cathedra donné par Dr. <a href="https://giamarchi.unige.ch/christophe-
 semestres d'automne 2023 à 2026
 </div>
 <div class="cv-description">
-<strong>Mécanique classique pour mathématicien·nes</strong>, [cours de BA3]<br>
-Cours ex cathedra donné par les Profs. <a href="https://inspirehep.net/authors/1018703">Anton Alekseev</a> and <a href="https://fiteoweb.unige.ch/~sonner/">Julian Sonner</a>.
+<strong>Mécanique classique pour mathématicien·nes</strong> [cours de BA3]<br>
+Cours <i>ex cathedra</i> donné par les Profs. <a href="https://inspirehep.net/authors/1018703">Anton Alekseev</a> et <a href="https://fiteoweb.unige.ch/~sonner/">Julian Sonner</a>.
 </div>
 </div>
 
@@ -321,8 +321,8 @@ Cours ex cathedra donné par les Profs. <a href="https://inspirehep.net/authors/
 semestre de printemps 2023
 </div>
 <div class="cv-description">
-<strong>Group theory for physics students</strong>, [cours de BA3]<br>
-Cours ex cathedra donné par Prof. <a href="https://inspirehep.net/authors/1009762">Stefano Foffa</a>.
+<strong>Group theory for physics students</strong> (<strong>Théorie des groupes pour les étudiants en physique</strong>) [cours de BA3]<br>
+Cours <i>ex cathedra</i> donné par Prof. <a href="https://inspirehep.net/authors/1009762">Stefano Foffa</a>.
 </div>
 </div>
 
@@ -334,7 +334,7 @@ Cours ex cathedra donné par Prof. <a href="https://inspirehep.net/authors/10097
 semestre d’automne 2024
 </div>
 <div class="cv-description">
-<strong><a href="https://www.innosuisse.admin.ch/en/">Innosuisse Start-up Training Business Concept</a></strong><br>
+<strong><a href="https://www.innosuisse.admin.ch/fr/">Innosuisse Start-up Training Business Concept</a></strong><br>
 Programme de formation de 14 semaines et développement d’un projet entrepreneurial, évalué positivement par le jury.
 </div>
 </div>
@@ -345,7 +345,7 @@ juin 2023 à 2026
 </div>
 <div class="cv-description">
 <strong><a href="https://www.ge.ch/document/filieres-formations-college-geneve-cdg">Collège de Genève</a></strong><br>
-Examinateur externe pour l’épreuve orale de maturité suisse en mathématiques (niveaux normal et avancé). Total de 14,5 jours d’examen.
+Examinateur externe pour l’épreuve orale de maturité suisse en mathématiques (niveaux normal et avancé) pour un total de 14,5 jours d’examen.
 </div>
 </div>
 
