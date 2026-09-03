@@ -7,10 +7,17 @@ affiliation_fr: Université de Genève
 email: nicolas.dero (at) unige.ch
 private_email: nicolas.deromiralles (at) gmail.com
 
+# Site Configuration
+url: "https://nicolasdero.com"
+
 # Search Engine Optimization (SEO)
 keywords: nicolas de ro, nicolas dero, nicolasdero, de ro nicolas, dero nicolas, deronicolas
-#canonical: 
+canonical: https://nicolasdero.com
 description: Nicolas De Ro is a PhD student at the University of Geneva. His research interests include quantum and statistical mechanics, with a focus on condensed matter and many-body physics.
+
+# Plugins
+plugins:
+  - jekyll-sitemap
 
 # The option is used to show the last update time.
 enable_last_update: true
