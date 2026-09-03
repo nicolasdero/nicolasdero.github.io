@@ -23,7 +23,7 @@ Pour celles et ceux qui ne sont pas familiers avec cette terminologie, 100 m de 
 
   <li>
     <strong>Du Grand-Bornand à Bonneville par le Refuge de Lessy</strong> (2 jours)<br>
-    31.3 km&nbsp;&nbsp;·&nbsp;&nbsp;1850 m D+&nbsp;&nbsp;·&nbsp;&nbsp;2305 m D−&nbsp;&nbsp;·&nbsp;&nbsp;T3&nbsp;&nbsp;·&nbsp;&nbsp;GPX <a href="/assets/GPX/grand_bornand_lessy.gpx">jour 1</a> et <a href="/assets/gpx/lessy_bonneville.gpx">jour 2</a>
+    31.3 km&nbsp;&nbsp;·&nbsp;&nbsp;1850 m D+&nbsp;&nbsp;·&nbsp;&nbsp;2305 m D−&nbsp;&nbsp;·&nbsp;&nbsp;T3&nbsp;&nbsp;·&nbsp;&nbsp;GPX <a href="/assets/GPX/grand_bornand_lessy.gpx">jour 1</a> et <a href="/assets/GPX/lessy_bonneville.gpx">jour 2</a>
   </li>
 
   <li>
