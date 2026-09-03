@@ -6,7 +6,7 @@ This repository contains the source code for my personal website. While this is 
 
 The initial design is based on the [minimal-light](https://github.com/yaoyao-liu/minimal-light) template by [yaoyao-liu](https://github.com/yaoyao-liu/), which itself derives from the [minimal](https://github.com/orderedlist/minimal) theme. I have simplified and customized the layout to my own taste, including adding the necessary structure for a bilingual website (in this case, English and French). For more information on the underlying backbone, please refer to the documentation of the original templates.
 
-The website is aimed at being simple and elegant for presenting oneself, while also being versatile and supporting mobile displays. Judge for yourself here: [https://nicolasdero.github.io/](https://nicolasdero.github.io/).
+The website is aimed at being simple and elegant for presenting oneself, while also being versatile and supporting mobile displays. Judge for yourself here: [https://nicolasdero.com](https://nicolasdero.com).
 
  The repository has the following structure:
 
