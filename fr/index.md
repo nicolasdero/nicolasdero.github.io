@@ -2,6 +2,7 @@
 layout: homepage
 lang: fr
 en_url: /
+permalink: /fr/
 ---
 
 <div style="padding-top: 40px;"></div>
